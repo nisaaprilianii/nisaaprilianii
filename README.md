@@ -22,8 +22,7 @@
 
 ## 📫 How to reach me  
 - GitHub: [@nisaaprilianii](https://github.com/nisaaprilianii)  
-- LinkedIn: *(isi link LinkedIn kalau ada)*  
-- Email: *(isi email kalau mau ditampilkan)*  
+- LinkedIn: https://www.linkedin.com/in/nisa-apriliani-703a07292/
 
 ---
 
